@@ -12,3 +12,21 @@ dialog{background:var(--sheet) url(assets/fiber.svg);color:var(--ink);border:1px
 @media(min-width:721px){.mapplate{display:block}.mapplate figure{position:absolute;inset:0;min-height:0}.mapplate svg{flex:1 1 0;min-height:0;max-height:none;height:0}.mapplate figcaption{flex:none;line-height:18px}}
 .mast small,.track small{font-size:10px}footer,footer a,#clock{font-size:11px}@media(max-width:720px){footer{align-items:baseline;font-size:9px}footer a{font-size:10px}.track small{font-size:9px}}
 .unroll{z-index:3}
+/* The ink plate and its comparison use exactly the same unmodified photo. */
+.ink-render{filter:url(#dujiangyan-photo-ink)}
+.landscape{mask-image:linear-gradient(90deg,transparent 2%,#0005 22%,#000 37%)}
+.landscape img{object-position:50% 47%}
+.scene-tag{position:absolute;z-index:2;right:14px;bottom:48px;padding:6px 10px;background:#f7eedbe8;border-left:2px solid var(--seal);pointer-events:none}
+.scene-tag b,.scene-tag span{display:block}.scene-tag b{font:600 15px var(--roman)}.scene-tag span{font-size:11px}.diagram .scene-tag{display:none}
+#gallery{width:min(860px,94vw);padding:12px 18px;max-height:95dvh}
+#gallery .compare-image{position:relative;width:min(100%,calc((95dvh - 166px) * 4 / 3));min-width:min(300px,100%);aspect-ratio:4/3;margin:8px auto 0;background:#f0e8d5;outline:1px solid #b5aa91;isolation:isolate}
+#gallery .compare-image img{position:absolute;inset:0;display:block;width:100%;height:100%;max-height:none;max-width:none;object-fit:contain;margin:0}
+.comparison-original{clip-path:inset(0 calc(100% - var(--original,50%)) 0 0)}
+.split-line{display:none;position:absolute;inset:0 auto 0 var(--original,50%);width:2px;background:#fdf4df;box-shadow:1px 0 2px #25332799;transform:translateX(-1px);pointer-events:none}
+.split .split-line{display:block}.compare-controls{display:flex;align-items:center;gap:12px;padding:7px 0 4px;border-bottom:1px solid var(--line)}
+.compare-controls button{padding:4px 6px;min-height:30px;white-space:nowrap;font:600 13px var(--ui);text-decoration:underline;text-underline-offset:3px}
+.compare-controls input{flex:1;min-width:56px;accent-color:var(--seal)}.compare-controls input:focus-visible{outline:2px solid var(--seal);outline-offset:4px}
+#gallery p{margin-top:6px}#gallery p.photo-credit{font:11px/1.45 var(--ui)}
+@media(max-width:720px){.landscape{inset:0 -20% 0 0;mask-image:linear-gradient(90deg,transparent 1%,#0001 23%,#000 68%)}.landscape img{object-position:53% 51%}.scene-tag{right:8px;bottom:40px;padding:4px 6px}.scene-tag b{font-size:12px}.scene-tag span{font-size:10px}#gallery{padding-inline:12px}.compare-controls{gap:6px}.compare-controls button{font-size:12px}}
+@media print{.unroll{display:none!important}}
+@media(min-width:721px){.landscape img{object-position:50% 35%}}

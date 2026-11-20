@@ -31,4 +31,15 @@ $('#edit').onclick=()=>{editor();sheet.showModal()};document.addEventListener('k
 
 document.addEventListener('keydown', e=>{if(!sheet.open && !$('#gallery').open && e.key==='0')view(false)});
 
-$('#unroll').onclick=()=>$('#gallery').showModal();
+const divider=$('#ink-divider'),compare=$('#compare-image');
+function setOriginal(value){
+ divider.value=value;
+ compare.style.setProperty('--original',value+'%');
+ compare.classList.toggle('split',value>0&&value<100);
+ divider.setAttribute('aria-valuetext',value+'% original photograph');
+}
+divider.oninput=()=>setOriginal(Number(divider.value));
+$('#all-photo').onclick=()=>setOriginal(100);
+$('#all-ink').onclick=()=>setOriginal(0);
+$('#close-gallery').onclick=()=>$('#gallery').close();
+$('#unroll').onclick=()=>{setOriginal(50);$('#gallery').showModal()};
