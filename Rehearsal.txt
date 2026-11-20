@@ -24,7 +24,7 @@ Before we finish, listen to our river. At first you will hear one beat. Then lis
 [全组现场演奏以下 16 秒，不说话。结束后指向鱼嘴。]
 Did you point to Fish Mouth? The first beat was the Min River. The two sounds after it stood for the two channels. The music is simple, but it helps us remember the design.
 
-Dujiangyan still brings water to farms today. Its lesson is not that people should leave every river alone. It is that good engineers first watch where the water wants to go. Here, the farmers get water, and the river keeps moving. Thank you. We are ready for your question.
+Our poster quotes the Dao De Jing: “道法自然.” It means “The Way follows nature.” Dujiangyan shows what this can mean in real life. It uses the shape and slope of the river. The farms get water, and extra water can keep flowing downstream. Thank you. We are ready for your question.
 
 5:00–6:00 | Q&A：听完老师的问题再回答，不把预设问答读成第五段。
 首选问题：What happens when too much water enters the inner river?
@@ -45,6 +45,7 @@ S1: Yes. People still care for the channels and remove material that builds up. 
 正式演出前由组员亲自完成选音、改编和合奏；若教室不便现场演奏，用手机录下本组合奏，离线播放自己的录音。不要把示范称为本组录音。
 
 排练提醒
+网页版可在 Edit score 内由组员编两条水道的节奏，点 Save WAV 导出当前版本；同组自选节奏才是小组版，随包的 River-in-Two-Demo.wav 只是示范备用。现场用低音量播放约 16 秒，可配合讲解停顿。
 第一遍只指路线：鱼嘴分流 → 飞沙堰泄走多余水沙 → 宝瓶口限制入渠水量。第二遍按秒表完整走一遍，把音乐算进五分钟。讲得太快时在指图处停两秒，不要重复念海报；较慢时删掉杯子的比喻。第五分钟结束后另留一分钟听题、作答。
 channel = 河道；canal = 人工水渠；downstream = 向下游；plain = 平原；weir（读音近 wear）= 低堰。工程名称是专名，其余用短句和常用词，不要求背专业定义。
 来源：UNESCO World Heritage Centre, Mount Qingcheng and the Dujiangyan Irrigation System, https://whc.unesco.org/en/list/1001/
