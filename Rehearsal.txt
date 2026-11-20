@@ -1,51 +1,60 @@
-﻿都江堰｜小组排练本（不上屏）
-投影只用 Poster.png，全程保持同一张海报；也可浏览器打开 Poster.html 按 F11。以下按四人组；若人数不同，按自然段拆分或合并，确保每人有英文台词。方括号内不读。时间是排练目标，并非实际录音时长。
+﻿都江堰｜六人英文排练本（不上屏）
+展示 4:00（含 16 秒小组配乐），六人每人都讲英语；问答另计 1 分钟。
+只用一张海报。线上打开课堂页；离线解压后用 Edge / Chrome 打开 index.html，点 Full screen。
+方括号是动作提示，不读；段落时间是排练目标。尽量每段留 1–2 秒指图、停顿或交接。
 
-SPEAKER 1 · 0:00–1:10 | The problem
-Imagine you are a farmer near the Min River. In spring, your young plants need water. After days of heavy rain, however, the same river may cover your fields. You cannot move the fields, and you do not want to lose the river. What would you build?
+SPEAKER 1 · 0:00–0:37 | The problem
+[从鱼嘴水墨实景开场。指标题下方的问题。]
+Imagine you are a farmer by the Min River. On dry days, your fields need water. After heavy rain, the same river may flood them. So how do you water the fields without blocking the river? Dujiangyan answers this question by giving water different paths. Let us follow those paths on the map.
 
-[停两秒，指向地图上方的 Min River。]
-This was a real problem for people on the Chengdu Plain in Sichuan. More than two thousand years ago, people began building Dujiangyan. Their idea was not to put a high wall across the whole river. Instead, they gave the water different ways to go. Let us follow one drop of water through our poster.
+SPEAKER 2 · 0:37–1:14 | Fish Mouth
+[按 1。先指来水，再沿内江和外江各指一次。]
+At number one, the river meets a long divider called Fish Mouth. It splits the water into two channels. The outer river keeps flowing downstream. The inner river carries water toward the fields. But if too much water enters the inner river, we need to give it a way out. That brings us to number two.
 
-SPEAKER 2 · 1:10–2:20 | The split
-Start at the top of the map. Our drop is coming down from the mountains. At number one, it meets a long divider called Fish Mouth. Look at the two paths below it. If our drop goes into the outer river, it keeps moving downstream. If it enters the inner river, it heads toward the farms.
+SPEAKER 3 · 1:14–1:51 | Flying Sand Weir
+[按 2。沿短箭头指向外江。]
+This is Flying Sand Weir. A weir is a low wall in a river. When the inner river rises high enough, extra water flows over the wall and back into the outer river. It can carry sand away, too. This helps keep the channel clear. Now let us see how water enters the canals.
 
-[沿外江和内江各指一次。]
-Why not send all the water to the fields? Think about a cup under a running tap. Once the cup is full, more water is a problem, not a gift. The fields need a steady supply, not the whole river. So where can the extra water go?
+SPEAKER 4 · 1:51–2:28 | Bottle Neck
+[按 3。先指窄口，再指成都平原方向。]
+Number three is Bottle Neck. The opening is narrow, like the neck of a bottle. It limits how much water can enter the canals. The canals then carry the water to fields across the Chengdu Plain. Together, the weir and the narrow opening give extra water a way out and give farms a steady supply.
 
-SPEAKER 3 · 2:20–3:35 | A way out and a way in
-Find number two. This is Flying Sand Weir. A weir is a low wall in a river. When the water in the inner river rises high enough, some of it flows over the wall. Follow the short arrow back to the outer river. The moving water can take sand with it. That matters because sand left in a channel can slowly fill it up.
+SPEAKER 5 · 2:28–3:05 | Work with nature
+[按 0 回到水墨实景，指下方的「道法自然」。]
+Our poster uses a line from the Dao De Jing: “The Way follows nature.” For us, Dujiangyan is a clear example. The engineers used the shape and slope of the river to guide water. They did not need to block the whole river. The fields get the water they need, and extra water can keep flowing downstream.
 
-Now look at number three. Bottle Neck is a narrow opening. Like the neck of a bottle, it leaves only a small space for water to pass through. Beyond it, smaller canals take water to different fields. One part gives extra water a way out. The other controls how much gets in.
+SPEAKER 6 · 3:05–4:00 | Hear the river
+[留在实景；说完第一段再放 16 秒小组配乐。]
+Listen to our short piece, River in Two. You will hear one rhythm first and then a second one. As you listen, think about the point where the Min River splits.
 
-SPEAKER 4 · 3:35–5:00 | Hear the river
-Before we finish, listen to our river. At first you will hear one beat. Then listen for a second rhythm. Try to point to the place on the map where the sound divides.
+[约 3:28 播放；16 秒内不说话，约 3:44 接回总结。]
 
-[全组现场演奏以下 16 秒，不说话。结束后指向鱼嘴。]
-Did you point to Fish Mouth? The first beat was the Min River. The two sounds after it stood for the two channels. The music is simple, but it helps us remember the design.
+The two rhythms stand for the two channels at Fish Mouth. Our example shows that good design can work with nature. Thank you.
 
-Our poster quotes the Dao De Jing: “道法自然.” It means “The Way follows nature.” Dujiangyan shows what this can mean in real life. It uses the shape and slope of the river. The farms get water, and extra water can keep flowing downstream. Thank you. We are ready for your question.
 
-5:00–6:00 | Q&A：听完老师的问题再回答，不把预设问答读成第五段。
-首选问题：What happens when too much water enters the inner river?
-S3: Some of the extra water can flow over Flying Sand Weir and return to the outer river. It can carry sand away, too.
-S2 如有时间，指图补充：Look at the short arrow at number two. It shows the way out. The narrow opening at number three also limits how much water reaches the canals.
-备用：Why did you use two rhythms?
-S4: We wanted people to hear the split, not just see it. The second rhythm starts when the water reaches Fish Mouth.
-备用：Does the system still need people to look after it?
-S1: Yes. People still care for the channels and remove material that builds up. The river does part of the work, not all of it.
-没听清：Could you repeat the last part of your question, please?
+4:00–5:00 | Q&A：展示结束后另计。听完老师问题再答；不要连读三题。
+Q1: What happens when the inner river rises too high?
+A1: Some of the extra water flows over Flying Sand Weir and back into the outer river. The water can carry sand away, too.
+
+Q2: How does Bottle Neck help the farms?
+A2: The narrow opening limits how much water enters the canals. The canals then carry the water to the fields.
+
+Q3: Why did your group use two rhythms?
+A3: The first rhythm stands for the Min River. The second joins to help people hear how the river splits into two channels.
+
+没听清：Could you repeat the question, please?
 
 小组自制音乐｜一条河，两种节奏
 采用现场创作和演奏，不播放旧 Demo 或现成歌曲。排练时由组员定下自己的两个节奏和收尾音；以下是可改的谱架。每格一拍，速度约每分钟 90 拍，六小节共 16 秒。× 为轻敲，— 为休止。先轻声数一小节再开始（正式表演不数出声）。
 第1–2小节：S1 独奏桌面低音，例 × — × —。其余人静听。
 第3–4小节：S1 继续；S2 用两支笔敲出不同节奏，例 — × × —。S3 在每小节第四拍轻拍手，像水越过低堰。
 第5小节：S1、S2、S3 保持节奏，S4 轻哼两个自选音，示意水流入田。
-第6小节：四人在第一拍合奏，余下三拍静默。可改最后一拍，保留“一变二”的结构。
-正式演出前由组员亲自完成选音、改编和合奏；若教室不便现场演奏，用手机录下本组合奏，离线播放自己的录音。不要把示范称为本组录音。
+第6小节：全组在第一拍合奏，余下三拍静默。可改最后一拍，保留“一变二”的结构。
+课前由全组决定节奏和收尾音。可在 Edit score 编曲，再点 Save WAV 导出小组版；也可自己合奏并录音。示范版 River-in-Two-Demo.wav 不当作小组作品。
 
 排练提醒
-网页版可在 Edit score 内由组员编两条水道的节奏，点 Save WAV 导出当前版本；同组自选节奏才是小组版，随包的 River-in-Two-Demo.wav 只是示范备用。现场用低音量播放约 16 秒，可配合讲解停顿。
-第一遍只指路线：鱼嘴分流 → 飞沙堰泄走多余水沙 → 宝瓶口限制入渠水量。第二遍按秒表完整走一遍，把音乐算进五分钟。讲得太快时在指图处停两秒，不要重复念海报；较慢时删掉杯子的比喻。第五分钟结束后另留一分钟听题、作答。
-channel = 河道；canal = 人工水渠；downstream = 向下游；plain = 平原；weir（读音近 wear）= 低堰。工程名称是专名，其余用短句和常用词，不要求背专业定义。
+按秒表连跑两遍。第一遍只对交接和按键；第二遍把完整音频算入 4:00。给配乐留足 16 秒。
+约 90–100 词/分钟是排练参考。若超时，优先去掉额外停顿；若还超时，第 1 人可省去第 2 句、第 4 人可省去瓶颈比喻。不要删任何人的整段。
+提示：weir（近 wear）= 低堰；downstream = 下游；slope = 坡度；canal = 水渠。
 来源：UNESCO World Heritage Centre, Mount Qingcheng and the Dujiangyan Irrigation System, https://whc.unesco.org/en/list/1001/
+引语：《道德经》第二十五章，https://ctext.org/dao-de-jing/zh

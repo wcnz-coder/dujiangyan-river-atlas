@@ -3,7 +3,7 @@
 
 A single English teaching poster. The opening ink-wash view is rendered from an actual photograph taken at Fish Mouth. Color and texture are adapted without changing the original geometry. Click **Compare with photo** to compare the full, uncropped source and the ink rendering. The poster pairs “道法自然” (Dao De Jing, chapter 25) with an English translation and its link to the irrigation system. A 2024 photo shows the Inner River at South Bridge. The separate flow diagram explains the engineering and is not drawn to scale. Press **1–3** to trace Fish Mouth, Flying Sand Weir and Bottle Neck. Press **0** to return to the landscape.
 
-**Classroom use:** Full screen → present for five minutes (including music) → one minute of Q&A. Notes and the four-speaker script are available on the poster and in Rehearsal.txt. Edit score to choose the group's rhythm and final note, then copy the URL including its fragment to the classroom machine. Click **Save WAV** to take an offline copy of your current arrangement to class. The bundled River-in-Two-Demo.wav is the default 16-second example, not a student recording.
+**Classroom use:** Full screen → present for four minutes (including 16 seconds of music) → one minute of Q&A. Notes and the six-speaker script are available on the poster and in Rehearsal.txt. Edit score to choose the group's rhythm and final note, then copy the URL including its fragment to the classroom machine. Click **Save WAV** to take an offline copy of your current arrangement to class. The bundled River-in-Two-Demo.wav is the default 16-second example, not a student recording.
 
 **Offline:** extract the whole package, retaining assets/, and open index.html. No build, server, network fonts or external audio needed.
 
